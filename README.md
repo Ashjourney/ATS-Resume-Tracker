@@ -28,3 +28,8 @@ AI system that ranks resumes based on job description.
 ## Impact
 - Saves recruiter time
 - Improves hiring accuracy
+
+## Developed By
+Asrritha Rudrani
+
+  -SARS Next Solution
